@@ -18,4 +18,4 @@ sudo apt-get install grep
 
 ## Authors
 
-* **Oscar Lewczuk** - *Initial work* - [Au5tin](https://github.com/Au5tin)
+* **Oscar Lewczuk** - [Au5tin](https://github.com/Au5tin)
